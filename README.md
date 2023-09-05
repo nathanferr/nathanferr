@@ -5,8 +5,6 @@ Oi, eu sou o Nathan 😁. Estou cursando Análise e Desenvolvimento de Sistemas 
 ---
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=)](mailto:nathanrosaferreira@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/nathan-rosa-ferreira/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=A64CE8)](https://github.com/nathanferr)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/nathanrosaferreira)
 
 ### 🖥️ Habilidades
 ---
