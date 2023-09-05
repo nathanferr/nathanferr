@@ -6,7 +6,7 @@
     <span>Nathan Rosa Ferreira</span>
 </h1>
 
-<p align="justify"> Sou um estudante de Carapicuíba-SP, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na FATEC de Carapicuíba e atualmente estou com foco no aprendizado front-end, para me tornar um fullstack. Meu primeiro contato com programação foi no final do ensino médio, onde participei de uma eletiva de robótica e o projeto final que meu grupo entregou foi um cubo de arduino, que piscava suas leds a partir de uma lógica programada.
+<p align="justify"> Sou de Carapicuíba-SP, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na FATEC de Carapicuíba e atualmente estou com foco no aprendizado front-end, para me tornar um fullstack. Meu primeiro contato com programação foi no final do ensino médio, onde participei de uma eletiva de robótica e o projeto final que meu grupo entregou foi um cubo de arduino, que piscava suas leds a partir de uma lógica programada.
   <br>
 
 
